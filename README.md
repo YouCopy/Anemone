@@ -1,2 +1,2 @@
-# Pinky_And_The_Brain
+# Anemone
 Files for the Pinky and the Brain Project
